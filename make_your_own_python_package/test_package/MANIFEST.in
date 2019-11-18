@@ -1,0 +1,5 @@
+include LINCENSE
+include test_tools/sourceCode.git.txt
+include test_tools/readme.md
+recursive-include test_tools/bin *
+recursive-include test_tools/conf *

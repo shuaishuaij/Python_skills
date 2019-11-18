@@ -1,0 +1,30 @@
+
+按照格式配置好文件
+
+运行 python setup.py sdist bdist_wheel
+
+安装方法 pip install dist/test_tools-0.1-py3-none-any.whl --upgrade
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
